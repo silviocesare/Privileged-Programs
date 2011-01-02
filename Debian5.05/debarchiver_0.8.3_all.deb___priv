@@ -1,0 +1,4 @@
+drwxrwsr-x root/root         0 2008-09-04 16:02 ./var/lib/debarchiver/incoming/
+drwxrwsr-x root/root         0 2008-09-04 16:02 ./var/lib/debarchiver/incoming/stable/
+drwxrwsr-x root/root         0 2008-09-04 16:02 ./var/lib/debarchiver/incoming/testing/
+drwxrwsr-x root/root         0 2008-09-04 16:02 ./var/lib/debarchiver/incoming/unstable/

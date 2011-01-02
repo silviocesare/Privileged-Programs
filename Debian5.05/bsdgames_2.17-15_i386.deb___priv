@@ -1,0 +1,15 @@
+-rwxr-sr-x root/games    17260 2008-04-26 06:06 ./usr/games/snake
+-rwxr-sr-x root/games   221708 2008-04-26 06:06 ./usr/games/hack
+-rwxr-sr-x root/games    18488 2008-04-26 06:06 ./usr/games/tetris-bsd
+-rwxr-sr-x root/games    26752 2008-04-26 06:06 ./usr/games/cribbage
+-rwxr-sr-x root/games    18132 2008-04-26 06:06 ./usr/games/robots
+-rwxr-sr-x root/games   158036 2008-04-26 06:06 ./usr/games/battlestar
+-rwxr-sr-x root/games    75580 2008-04-26 06:06 ./usr/games/phantasia
+-rwxr-sr-x root/games    23912 2008-04-26 06:06 ./usr/games/canfield
+-rwxr-sr-x root/games    69000 2008-04-26 06:06 ./usr/games/sail
+-rwxr-sr-x root/games    40072 2008-04-26 06:06 ./usr/games/atc
+drwxrwsr-x root/games        0 2008-04-26 06:06 ./var/games/bsdgames/
+drwxrwsr-x root/games        0 2008-04-26 06:06 ./var/games/bsdgames/hack/
+drwxrwsr-x root/games        0 2008-04-26 06:06 ./var/games/bsdgames/hack/save/
+drwxrwsr-x root/games        0 2008-04-26 06:06 ./var/games/bsdgames/phantasia/
+drwxrwsr-x root/games        0 2008-04-26 06:06 ./var/games/bsdgames/sail/

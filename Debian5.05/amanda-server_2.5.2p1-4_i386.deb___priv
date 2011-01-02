@@ -1,0 +1,3 @@
+-rwsr-xr-- root/backup   48156 2008-08-17 05:08 ./usr/lib/amanda/planner
+-rwsr-xr-- root/backup   31260 2008-08-17 05:08 ./usr/lib/amanda/dumper
+-rwsr-xr-- root/backup   41352 2008-08-17 05:08 ./usr/sbin/amcheck

@@ -1,0 +1,7 @@
+-rwxr-sr-x root/lp       32232 2008-05-20 12:13 ./usr/sbin/lpc
+-rwsr-sr-x root/lp       24144 2008-05-20 12:13 ./usr/bin/lpr
+-rwsr-sr-x root/lp       23988 2008-05-20 12:13 ./usr/bin/lpq
+-rwsr-sr-x root/lp       22316 2008-05-20 12:13 ./usr/bin/lprm
+drwxrwsr-x lp/lp             0 2008-05-20 12:13 ./var/spool/lpd/
+drwxrwsr-x lp/lp             0 2008-05-20 12:13 ./var/spool/lpd/lp/
+drwxrwsr-x lp/lp             0 2008-05-20 12:13 ./var/spool/lpd/remote/

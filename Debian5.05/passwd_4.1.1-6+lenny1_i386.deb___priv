@@ -1,0 +1,6 @@
+-rwxr-sr-x root/shadow   47416 2009-11-15 01:41 ./usr/bin/chage
+-rwsr-xr-x root/root     32184 2009-11-15 01:41 ./usr/bin/chfn
+-rwsr-xr-x root/root     27736 2009-11-15 01:41 ./usr/bin/chsh
+-rwxr-sr-x root/shadow   18660 2009-11-15 01:41 ./usr/bin/expiry
+-rwsr-xr-x root/root     41528 2009-11-15 01:41 ./usr/bin/gpasswd
+-rwsr-xr-x root/root     31704 2009-11-15 01:41 ./usr/bin/passwd

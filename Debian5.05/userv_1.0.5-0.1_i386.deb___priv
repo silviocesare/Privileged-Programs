@@ -1,0 +1,10 @@
+drwxr-sr-x root/root         0 2008-04-09 22:03 ./etc/userv/
+drwxr-sr-x root/root         0 2008-04-09 22:03 ./etc/userv/default.d/
+drwxr-sr-x root/root         0 2008-04-09 22:03 ./etc/userv/services.d/
+drwxr-sr-x root/root         0 2008-04-09 22:03 ./etc/userv/override.d/
+-rwsr-xr-x root/root     27140 2008-04-09 22:03 ./usr/bin/userv
+drwxr-sr-x root/root         0 2008-04-09 22:03 ./usr/share/man/
+drwxr-sr-x root/root         0 2008-04-09 22:03 ./usr/share/man/man8/
+drwxr-sr-x root/root         0 2008-04-09 22:03 ./usr/share/man/man1/
+drwxr-sr-x root/root         0 2008-04-09 22:03 ./usr/share/doc/userv/
+drwxr-sr-x root/root         0 2008-04-09 22:03 ./usr/share/doc/userv/spec.html/

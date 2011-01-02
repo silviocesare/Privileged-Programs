@@ -1,0 +1,4 @@
+-rwsr-xr-x root/root      5216 2008-06-22 17:15 ./usr/bin/restorefont
+-rwsr-xr-x root/root      3096 2008-06-22 17:15 ./usr/bin/dumpreg
+-rwsr-xr-x root/root      5012 2008-06-22 17:15 ./usr/bin/restorepalette
+-rwsr-xr-x root/root      5656 2008-06-22 17:15 ./usr/bin/restoretextmode

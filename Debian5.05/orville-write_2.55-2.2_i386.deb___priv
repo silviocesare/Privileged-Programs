@@ -1,0 +1,5 @@
+-rwsr-sr-x root/tty      14548 2008-06-06 06:46 ./usr/bin/mesg
+-rwxr-sr-x root/tty      11316 2008-06-06 06:46 ./usr/bin/amin
+-rwxr-sr-x root/tty       8532 2008-06-06 06:46 ./usr/bin/huh
+-rwxr-sr-x root/tty       8404 2008-06-06 06:46 ./usr/bin/helpers
+-rwsr-sr-x root/tty      31220 2008-06-06 06:46 ./usr/bin/orville-write

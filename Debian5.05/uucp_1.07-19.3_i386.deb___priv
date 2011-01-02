@@ -1,0 +1,5 @@
+-rwsr-sr-x uucp/dialout 244756 2008-08-11 13:14 ./usr/lib/uucp/uucico
+-rwsr-xr-x uucp/root     97388 2008-08-11 13:14 ./usr/bin/uux
+-rwsr-xr-x uucp/root     96112 2008-08-11 13:14 ./usr/bin/uucp
+-rwsr-xr-x uucp/root    105588 2008-08-11 13:14 ./usr/bin/uustat
+-rwsr-sr-x uucp/uucp    108420 2008-08-11 13:14 ./usr/sbin/uuxqt

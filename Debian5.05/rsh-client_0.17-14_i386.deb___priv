@@ -1,0 +1,3 @@
+-rwsr-xr-x root/root     15560 2007-08-16 19:37 ./usr/bin/netkit-rcp
+-rwsr-xr-x root/root      8356 2007-08-16 19:37 ./usr/bin/netkit-rsh
+-rwsr-xr-x root/root     11624 2007-08-16 19:37 ./usr/bin/netkit-rlogin

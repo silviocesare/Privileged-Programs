@@ -1,0 +1,4 @@
+-rwxr-sr-x root/utmp    135784 2008-04-25 00:16 ./usr/bin/krxvt
+-rwxr-sr-x root/utmp    135824 2008-04-25 00:16 ./usr/bin/crxvt-big5
+-rwxr-sr-x root/utmp    135696 2008-04-25 00:16 ./usr/bin/crxvt-gb
+-rwxr-sr-x root/utmp    135740 2008-04-25 00:16 ./usr/bin/grxvt

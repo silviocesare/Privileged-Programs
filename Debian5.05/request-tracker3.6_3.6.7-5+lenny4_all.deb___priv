@@ -1,0 +1,7 @@
+drwxr-s--- www-data/root     0 2010-04-07 23:40 ./var/cache/request-tracker3.6/
+drwxr-s--- www-data/root     0 2010-04-07 23:40 ./var/cache/request-tracker3.6/mason_data/
+drwxr-s--- www-data/root     0 2010-04-07 23:40 ./var/cache/request-tracker3.6/mason_data/etc/
+drwxr-s--- www-data/root     0 2010-04-07 23:40 ./var/cache/request-tracker3.6/mason_data/obj/
+drwxr-s--- www-data/root     0 2010-04-07 23:40 ./var/cache/request-tracker3.6/mason_data/cache/
+drwxr-s--- www-data/root     0 2010-04-07 23:40 ./var/cache/request-tracker3.6/session_data/
+drwxr-sr-x www-data/www-data 0 2010-04-07 23:40 ./var/log/request-tracker3.6/

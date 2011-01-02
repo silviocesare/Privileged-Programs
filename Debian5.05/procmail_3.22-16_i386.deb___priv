@@ -1,0 +1,2 @@
+-rwsr-sr-x root/mail     72544 2006-05-01 05:34 ./usr/bin/procmail
+-rwxr-sr-x root/mail     12748 2006-05-01 05:34 ./usr/bin/lockfile

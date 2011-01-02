@@ -1,0 +1,3 @@
+-rwsr-xr-- root/backup    5156 2008-08-17 05:08 ./usr/lib/amanda/rundump
+-rwsr-xr-- root/backup    6408 2008-08-17 05:08 ./usr/lib/amanda/runtar
+-rwsr-xr-- root/backup    5740 2008-08-17 05:08 ./usr/lib/amanda/killpgrp

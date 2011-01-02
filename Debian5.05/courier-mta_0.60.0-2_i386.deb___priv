@@ -1,0 +1,4 @@
+-rwsr-xr-x daemon/daemon 15604 2008-09-08 09:50 ./usr/bin/cancelmsg
+-rwxr-sr-x daemon/daemon 18176 2008-09-08 09:50 ./usr/bin/mailq
+-rwsr-xr-- daemon/daemon  3076 2008-09-08 09:50 ./usr/lib/courier/courier/submitmkdir
+-rwsr-xr-x root/daemon   27036 2008-09-08 09:50 ./usr/sbin/sendmail

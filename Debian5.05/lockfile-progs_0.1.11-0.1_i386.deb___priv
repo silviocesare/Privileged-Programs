@@ -1,0 +1,3 @@
+-rwxr-sr-x root/mail      6516 2008-03-04 19:44 ./usr/bin/mail-touchlock
+hrwxr-sr-x root/mail         0 2008-03-04 19:44 ./usr/bin/mail-lock link to ./usr/bin/mail-touchlock
+hrwxr-sr-x root/mail         0 2008-03-04 19:44 ./usr/bin/mail-unlock link to ./usr/bin/mail-touchlock

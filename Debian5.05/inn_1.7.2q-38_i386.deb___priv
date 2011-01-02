@@ -1,0 +1,3 @@
+-rwsr-xr-- root/news      8600 2008-09-10 10:23 ./usr/sbin/inndstart
+-rwxr-sr-x root/news     40932 2008-09-10 10:23 ./usr/bin/inews
+-rwxr-sr-x root/news     19604 2008-09-10 10:23 ./usr/bin/rnews

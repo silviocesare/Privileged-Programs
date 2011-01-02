@@ -1,0 +1,2 @@
+-rwxr-sr-- proxy/shadow   7908 2009-02-06 06:19 ./usr/lib/squid/getpwnam_auth
+-rwxr-sr-- proxy/shadow  10616 2009-02-06 06:19 ./usr/lib/squid/pam_auth

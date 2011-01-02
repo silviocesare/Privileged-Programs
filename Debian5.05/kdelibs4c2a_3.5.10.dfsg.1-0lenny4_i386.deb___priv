@@ -1,0 +1,4 @@
+-rwsr-xr-x root/root      6068 2010-02-15 00:07 ./usr/bin/kpac_dhcp_helper
+-rwsr-xr-x root/root     11003 2006-10-02 04:33 ./usr/bin/fileshareset
+-rwsr-xr-x root/root      5772 2010-02-15 00:07 ./usr/bin/start_kdeinit
+-rwsr-xr-x root/root      5752 2010-02-15 00:07 ./usr/bin/kgrantpty
