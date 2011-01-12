@@ -1,0 +1,3 @@
+2228236   32 -rwsr-xr-x   1 silvio   silvio      29352 Jul 20 19:24 ./usr/bin/newgrp
+2228234   60 -rwsr-xr-x   1 silvio   silvio      60940 Jul 20 19:24 ./usr/bin/gpasswd
+2228232   56 -rwsr-xr-x   1 silvio   silvio      55656 Jul 20 19:24 ./usr/bin/chage

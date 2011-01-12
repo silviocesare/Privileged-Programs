@@ -1,0 +1,5 @@
+2228232   76 -rwsr-xr-x   1 silvio   silvio      77420 Oct 27 09:46 ./bin/mount
+2228234   52 -rwsr-xr-x   1 silvio   silvio      49188 Oct 27 09:46 ./bin/umount
+2228275   16 -rws--x--x   1 silvio   silvio      14888 Oct 27 09:46 ./usr/bin/chsh
+2228273   16 -rws--x--x   1 silvio   silvio      16232 Oct 27 09:46 ./usr/bin/chfn
+2228314   12 -rwxr-sr-x   1 silvio   silvio      10096 Oct 27 09:46 ./usr/bin/write

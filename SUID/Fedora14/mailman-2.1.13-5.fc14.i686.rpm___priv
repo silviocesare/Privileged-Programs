@@ -1,0 +1,12 @@
+2228490    8 -rwxr-sr-x   1 silvio   silvio       7112 Aug 12 07:57 ./usr/lib/mailman/cgi-bin/private
+2228492    8 -rwxr-sr-x   1 silvio   silvio       7112 Aug 12 07:57 ./usr/lib/mailman/cgi-bin/roster
+2228484    8 -rwxr-sr-x   1 silvio   silvio       7112 Aug 12 07:57 ./usr/lib/mailman/cgi-bin/admindb
+2228489    8 -rwxr-sr-x   1 silvio   silvio       7112 Aug 12 07:57 ./usr/lib/mailman/cgi-bin/options
+2228483    8 -rwxr-sr-x   1 silvio   silvio       7104 Aug 12 07:57 ./usr/lib/mailman/cgi-bin/admin
+2228493    8 -rwxr-sr-x   1 silvio   silvio       7116 Aug 12 07:57 ./usr/lib/mailman/cgi-bin/subscribe
+2228491    8 -rwxr-sr-x   1 silvio   silvio       7112 Aug 12 07:57 ./usr/lib/mailman/cgi-bin/rmlist
+2228486    8 -rwxr-sr-x   1 silvio   silvio       7112 Aug 12 07:57 ./usr/lib/mailman/cgi-bin/create
+2228487    8 -rwxr-sr-x   1 silvio   silvio       7116 Aug 12 07:57 ./usr/lib/mailman/cgi-bin/edithtml
+2228488    8 -rwxr-sr-x   1 silvio   silvio       7116 Aug 12 07:57 ./usr/lib/mailman/cgi-bin/listinfo
+2228485    8 -rwxr-sr-x   1 silvio   silvio       7112 Aug 12 07:57 ./usr/lib/mailman/cgi-bin/confirm
+2228512    8 -rwxr-sr-x   1 silvio   silvio       7540 Aug 12 07:57 ./usr/lib/mailman/mail/mailman

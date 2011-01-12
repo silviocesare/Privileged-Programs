@@ -1,0 +1,3 @@
+2136881   60 -rwsr-x---   1 silvio   silvio      59780 Oct  7 23:31 ./usr/sbin/amcheck
+2136815   44 -rwsr-x---   1 silvio   silvio      43456 Oct  7 23:31 ./usr/lib/amanda/dumper
+2136816   64 -rwsr-x---   1 silvio   silvio      64848 Oct  7 23:31 ./usr/lib/amanda/planner

@@ -1,0 +1,4 @@
+2228291   12 -rwsr-xr-x   1 silvio   silvio       9400 Aug 26 05:58 ./usr/libexec/gridengine/utilbin/rsh
+2228290   16 -rwsr-xr-x   1 silvio   silvio      14696 Aug 26 05:58 ./usr/libexec/gridengine/utilbin/rlogin
+2228274   96 -rwsr-xr-x   1 silvio   silvio      96524 Aug 26 05:58 ./usr/libexec/gridengine/utilbin/authuser
+2228297    8 -rwsr-xr-x   1 silvio   silvio       6644 Aug 26 05:58 ./usr/libexec/gridengine/utilbin/testsuidroot

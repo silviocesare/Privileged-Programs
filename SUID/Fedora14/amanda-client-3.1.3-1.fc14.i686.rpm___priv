@@ -1,0 +1,4 @@
+2136787   16 -rwsr-x---   1 silvio   silvio      14812 Oct  7 23:31 ./usr/lib/amanda/calcsize
+2136792    8 -rwsr-x---   1 silvio   silvio       8184 Oct  7 23:31 ./usr/lib/amanda/runtar
+2136791    8 -rwsr-x---   1 silvio   silvio       5480 Oct  7 23:31 ./usr/lib/amanda/rundump
+2136788    8 -rwsr-x---   1 silvio   silvio       7408 Oct  7 23:31 ./usr/lib/amanda/killpgrp
