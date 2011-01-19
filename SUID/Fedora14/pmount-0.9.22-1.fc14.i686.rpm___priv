@@ -1,2 +1,2 @@
-2228232   32 -rwsr-xr-x   1 silvio   silvio      30780 May 28 18:16 ./usr/bin/pumount
-2228230   40 -rwsr-xr-x   1 silvio   silvio      40648 May 28 18:16 ./usr/bin/pmount
+/usr/bin/pmount 40648 1275034619 9b292f39152d1dd9a04ee8c535c1b9777913d9fb207eeadd634b9aab7e4b25ae 0104755 root root 0 0 0 X
+/usr/bin/pumount 30780 1275034619 e970629f658048886705e93dfe4038c7f00674281f8c90e6db4284c98df54a42 0104755 root root 0 0 0 X

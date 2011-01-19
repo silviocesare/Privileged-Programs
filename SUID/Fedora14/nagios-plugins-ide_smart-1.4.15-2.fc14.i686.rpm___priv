@@ -1,1 +1,1 @@
-2228230   40 -rwsr-x---   1 silvio   silvio      37376 Oct  8 02:08 ./usr/lib/nagios/plugins/check_ide_smart
+/usr/lib/nagios/plugins/check_ide_smart 37376 1286464111 e6e5c02d924cef98bf0bb2faf8c274a1d9f107ecec210391c604a547cea2d967 0104750 root nagios 0 0 0 X

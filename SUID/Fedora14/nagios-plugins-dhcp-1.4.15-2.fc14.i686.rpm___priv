@@ -1,1 +1,1 @@
-2228230   48 -rwsr-x---   1 silvio   silvio      48048 Oct  8 02:08 ./usr/lib/nagios/plugins/check_dhcp
+/usr/lib/nagios/plugins/check_dhcp 48048 1286464112 3c7bc0f8b8ec15083656c0653517b9f2b0a1c368f6114b3de660b906e7d19b51 0104750 root nagios 0 0 0 X

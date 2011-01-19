@@ -1,2 +1,2 @@
-2228262   12 -rwsr-xr-x   1 silvio   silvio       9076 Sep  3 01:30 ./usr/libexec/polkit-1/polkit-agent-helper-1
-2228248   16 -rwsr-xr-x   1 silvio   silvio      15888 Sep  3 01:30 ./usr/bin/pkexec
+/usr/bin/pkexec 15888 1283441432 a44a7f9ed37697bb101e3a453fc7f7f22a6cf86955681b7cb00d6605d3be5d81 0104755 root root 0 0 0 X
+/usr/libexec/polkit-1/polkit-agent-helper-1 9076 1283441432 551a366bc52b46627fb494bfbe77dc945f5a368b8d8dcddfba1a8b9af3040f47 0104755 root root 0 0 0 X

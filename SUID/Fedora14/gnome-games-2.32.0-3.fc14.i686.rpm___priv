@@ -1,2 +1,2 @@
-2228237  112 -r-xr-s--x   1 silvio   silvio     111360 Oct  2 05:04 ./usr/bin/iagno
-2228236  152 -r-xr-s--x   1 silvio   silvio     152224 Oct  2 05:04 ./usr/bin/gnomine
+/usr/bin/gnomine 152224 1285959898 7511e4ebe5cda4b2cdf40ea59d21b523d2b9774e0cd29e4b54fca74ef86fc7ec 0102551 root games 0 0 0 X
+/usr/bin/iagno 111360 1285959898 439b4504c8c44dbbd65843636375c348cc7937fdc5d35a5bd7db188f41dc6901 0102551 root games 0 0 0 X

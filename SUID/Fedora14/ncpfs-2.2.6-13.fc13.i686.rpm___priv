@@ -1,3 +1,3 @@
-2228235  288 -rwsr-xr-x   1 silvio   silvio     294180 Jan 27  2010 ./usr/bin/ncpmap
-2228262  256 -rwsr-xr-x   1 silvio   silvio     259500 Jan 27  2010 ./usr/bin/nwsfind
-2228233  296 -rwsr-xr-x   1 silvio   silvio     302020 Jan 27  2010 ./usr/bin/ncplogin
+/usr/bin/ncplogin 302020 1264518025 ae775e8872962c764ab88717632a2cb4b22e3d9de6a643da7bb2566efb4b3487 0104755 root root 0 0 0 X
+/usr/bin/ncpmap 294180 1264518025 da67db7a6f6343b587913980abbb07e4c5f800c5a89697536d94b991f4e26e16 0104755 root root 0 0 0 X
+/usr/bin/nwsfind 259500 1264518025 5b238b23cc8d9abfb1edbb481c56a2083e58fb2bd0530476b3fe00142131967c 0104755 root root 0 0 0 X

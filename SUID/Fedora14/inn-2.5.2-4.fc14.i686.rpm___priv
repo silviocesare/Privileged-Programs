@@ -1,2 +1,2 @@
-2228358   20 -r-sr-x---   1 silvio   silvio      18536 Aug 12 05:17 ./usr/libexec/news/rnews
-2228320    8 -r-s--x---   1 silvio   silvio       7520 Aug 12 05:17 ./usr/libexec/news/innbind
+/usr/libexec/news/innbind 7520 1281554241 23b7ffee92710e32f92d81f1d46f768550f3c575c1b465365208b2e33e1a9c4a 0104510 root news 0 0 0 X
+/usr/libexec/news/rnews 18536 1281554239 f3e5fd8eb27b750d989f480e2df8949371a94379ffbdc688ae5040650816fd33 0104550 uucp news 0 0 0 X

@@ -1,2 +1,2 @@
-2228232 1192 -rwsr-sr-x   1 silvio   silvio    1219456 Jul  6 05:06 ./usr/bin/maildrop
-2228229   12 -rwsr-sr-x   1 silvio   silvio      12120 Jul  6 05:06 ./usr/bin/lockmail
+/usr/bin/lockmail 12120 1278356762 aae79de811461a292c17f10091eaddb3e56e7c8474a8eeaa043686d45c57d23f 0106755 root mail 0 0 0 X
+/usr/bin/maildrop 1219456 1278356762 1e7d85b8517eaf0c4c4f727e582c1303edf32005d4e022d1cee72e105c47f210 0106755 root mail 0 0 0 X

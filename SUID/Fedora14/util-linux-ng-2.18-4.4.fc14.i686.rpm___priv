@@ -1,5 +1,5 @@
-2228232   76 -rwsr-xr-x   1 silvio   silvio      77420 Oct 27 09:46 ./bin/mount
-2228234   52 -rwsr-xr-x   1 silvio   silvio      49188 Oct 27 09:46 ./bin/umount
-2228275   16 -rws--x--x   1 silvio   silvio      14888 Oct 27 09:46 ./usr/bin/chsh
-2228273   16 -rws--x--x   1 silvio   silvio      16232 Oct 27 09:46 ./usr/bin/chfn
-2228314   12 -rwxr-sr-x   1 silvio   silvio      10096 Oct 27 09:46 ./usr/bin/write
+/bin/mount 77420 1288133204 0a98786ec08e1c2cda9cd5c64362812ec564fc05166e36948f9dfe8c3df58d86 0104755 root root 0 0 0 X
+/bin/umount 49188 1288133204 4f249ff44ec34db07169ff67ce8dab41120ee39ae68f8fee009fa0a91eec2084 0104755 root root 0 0 0 X
+/usr/bin/chfn 16232 1288133205 f245aba52b953b22e896b38c4eee1ff124f0d3531b510cc0c9fc25a6bf4b423f 0104711 root root 0 0 0 X
+/usr/bin/chsh 14888 1288133208 f7f288bd83814ef9ba167fbbb6a4c32f2c78dad42eeb0460c257f628123dfe2b 0104711 root root 0 0 0 X
+/usr/bin/write 10096 1288133205 33326580929889b7a3e142e90c654ed8d5bacfeb6284dd570273c64f62a3e0a8 0102755 root tty 0 0 0 X

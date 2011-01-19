@@ -1,1 +1,1 @@
-2228230   52 -rwsr-x---   1 silvio   silvio      52484 Oct  8 02:08 ./usr/lib/nagios/plugins/check_icmp
+/usr/lib/nagios/plugins/check_icmp 52484 1286464109 ec290f77f65c4ab852e4f974ac100a2755549be7e506f1c52384e8dd838237b2 0104750 root nagios 0 0 0 X

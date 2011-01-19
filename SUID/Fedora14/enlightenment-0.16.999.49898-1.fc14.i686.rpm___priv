@@ -1,2 +1,2 @@
-2228681    8 -r-sr-xr-x   1 silvio   silvio       7940 Jul  3 07:30 ./usr/lib/enlightenment/utils/enlightenment_sys
-2228463    8 -r-sr-xr-x   1 silvio   silvio       4760 Jul  3 07:30 ./usr/lib/enlightenment/modules/cpufreq/linux-gnu-i386-ver-svn-06/freqset
+/usr/lib/enlightenment/modules/cpufreq/linux-gnu-i386-ver-svn-06/freqset 4760 1278106259 3361063fcb38e08c97f45904496668be8a6444a08cea62bb81c1cd7929145a0c 0104555 root root 0 0 0 X
+/usr/lib/enlightenment/utils/enlightenment_sys 7940 1278106252 842ef91fc02f5d13dd779c09f37caddb148c9cb9e8068a01ffedd0c5e7cae7b1 0104555 root root 0 0 0 X

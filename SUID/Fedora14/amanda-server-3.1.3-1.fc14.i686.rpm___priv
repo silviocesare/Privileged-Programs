@@ -1,3 +1,3 @@
-2136881   60 -rwsr-x---   1 silvio   silvio      59780 Oct  7 23:31 ./usr/sbin/amcheck
-2136815   44 -rwsr-x---   1 silvio   silvio      43456 Oct  7 23:31 ./usr/lib/amanda/dumper
-2136816   64 -rwsr-x---   1 silvio   silvio      64848 Oct  7 23:31 ./usr/lib/amanda/planner
+/usr/lib/amanda/dumper 43456 1286454681 6031369a2b1b4d316876e7fd16d7cc03a98ef5151f195204076852c1dc4e8696 0104750 root disk 0 0 0 X
+/usr/lib/amanda/planner 64848 1286454680 2427ba5f5b8b3759f6552778c7193a53730c93130b5066a7a0fd0c1a095940e0 0104750 root disk 0 0 0 X
+/usr/sbin/amcheck 59780 1286454677 4660ce79b20a7987ca088b9bbb7ba631231b831542a48c2c80a1b634848d1387 0104750 root disk 0 0 0 X

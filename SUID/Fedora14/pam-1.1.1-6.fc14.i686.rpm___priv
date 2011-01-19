@@ -1,2 +1,2 @@
-2228318   32 -rwsr-xr-x   1 silvio   silvio      30704 Nov  2 23:31 ./sbin/unix_chkpwd
-2228317    8 -rwsr-xr-x   1 silvio   silvio       7700 Nov  2 23:31 ./sbin/pam_timestamp_check
+/sbin/pam_timestamp_check 7700 1288701106 6af7e973ed3cf7330d5967981a13641b316fb7b5632870207e8be0368722e2fc 0104755 root root 0 0 0 X
+/sbin/unix_chkpwd 30704 1288701106 71269d765b79b64b5e9e5200b42041a846c2b6d9efe60ff783ed6a3d0a52dd28 0104755 root root 0 0 0 X

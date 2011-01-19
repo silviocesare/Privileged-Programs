@@ -1,2 +1,2 @@
-2228230   64 -rwxrwsr-x   1 silvio   silvio      63724 Sep 30 01:00 ./usr/bin/jwhois
-2228299    0 -rwxrwsr-x   1 silvio   silvio          0 Sep 30 01:00 ./var/cache/jwhois/jwhois.db
+/usr/bin/jwhois 63724 1285772447 af83fbebd40cc31c7708426e533d24a390d3b4cf3b1e2c83f6a1f71e456b7ddc 0102775 root jwhois 0 0 0 X
+/var/cache/jwhois/jwhois.db 0 1285772447 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0102775 root jwhois 0 0 0 X

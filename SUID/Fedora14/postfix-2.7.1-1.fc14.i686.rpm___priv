@@ -1,2 +1,2 @@
-2228285  176 -rwxr-sr-x   1 silvio   silvio     178952 Jun 11 00:27 ./usr/sbin/postdrop
-2228292  208 -rwxr-sr-x   1 silvio   silvio     211804 Jun 11 00:27 ./usr/sbin/postqueue
+/usr/sbin/postdrop 178952 1276180038 2d8808bbc02a2d88afaf5a2f0a49f827b8bb8776d5bc479a30a5ca2c54aebec4 0102755 root postdrop 0 0 0 X
+/usr/sbin/postqueue 211804 1276180038 8c614488f09dda39c12867d3e279b95774b0f554e81dc8a79d70168014501ea8 0102755 root postdrop 0 0 0 X

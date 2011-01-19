@@ -1,4 +1,4 @@
-2136787   16 -rwsr-x---   1 silvio   silvio      14812 Oct  7 23:31 ./usr/lib/amanda/calcsize
-2136792    8 -rwsr-x---   1 silvio   silvio       8184 Oct  7 23:31 ./usr/lib/amanda/runtar
-2136791    8 -rwsr-x---   1 silvio   silvio       5480 Oct  7 23:31 ./usr/lib/amanda/rundump
-2136788    8 -rwsr-x---   1 silvio   silvio       7408 Oct  7 23:31 ./usr/lib/amanda/killpgrp
+/usr/lib/amanda/calcsize 14812 1286454679 501b54b0695d7c0e7ef579ee7100cf665f4201c89c2738755f705afa550d64a2 0104750 root disk 0 0 0 X
+/usr/lib/amanda/killpgrp 7408 1286454681 e0390d89d9238438879249e9fcf5d70ed0e353f95b9dec8c59fdb9aeaadf5049 0104750 root disk 0 0 0 X
+/usr/lib/amanda/rundump 5480 1286454678 44378789f1df9a1ff9794ae44a90475a45400ad34c8e793bc954fc041894fea7 0104750 root disk 0 0 0 X
+/usr/lib/amanda/runtar 8184 1286454680 3dd9dfe822227465f72c66385d68d382a16fb7fc05dc1974c379bc1b74a89121 0104750 root disk 0 0 0 X

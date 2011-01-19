@@ -1,4 +1,4 @@
-2228291   12 -rwsr-xr-x   1 silvio   silvio       9400 Aug 26 05:58 ./usr/libexec/gridengine/utilbin/rsh
-2228290   16 -rwsr-xr-x   1 silvio   silvio      14696 Aug 26 05:58 ./usr/libexec/gridengine/utilbin/rlogin
-2228274   96 -rwsr-xr-x   1 silvio   silvio      96524 Aug 26 05:58 ./usr/libexec/gridengine/utilbin/authuser
-2228297    8 -rwsr-xr-x   1 silvio   silvio       6644 Aug 26 05:58 ./usr/libexec/gridengine/utilbin/testsuidroot
+/usr/libexec/gridengine/utilbin/authuser 96524 1282766305 9668c354ff28c4e31e5e3a668757f93171ca4f355da489eaf363b1b72ddd962d 0104755 root root 0 0 0 X
+/usr/libexec/gridengine/utilbin/rlogin 14696 1282766304 6461a85d2b11af66ead8f1555bf3cfff7ee0bd252ee49ed1c5e180386346552a 0104755 root root 0 0 0 X
+/usr/libexec/gridengine/utilbin/rsh 9400 1282766304 cccefb0a893ebf88177eac45df3a751d671e7c0d3e4e1d1132a86dfdc0677b43 0104755 root root 0 0 0 X
+/usr/libexec/gridengine/utilbin/testsuidroot 6644 1282766306 9441cf1fdf238f6bce2238395171c94b06b8fcb937306c90a60d40f09fee7b95 0104755 root root 0 0 0 X

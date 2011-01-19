@@ -1,3 +1,3 @@
-2228231   12 -rwsr-xr-x   1 silvio   silvio       9320 Nov  8 23:22 ./usr/bin/rsh
-2228230   16 -rwsr-xr-x   1 silvio   silvio      14448 Nov  8 23:22 ./usr/bin/rlogin
-2228228   20 -rwsr-xr-x   1 silvio   silvio      19628 Nov  8 23:22 ./usr/bin/rcp
+/usr/bin/rcp 19628 1289218979 bb0c0a0db634e985733664161c642bc58733bd4ef8e47399bb405d76eff66320 0104755 root root 0 0 0 X
+/usr/bin/rlogin 14448 1289218979 8f5513a14de9dd76fa56c69ba58b32acf52eed95935cf97c88be6aef2c6aac5b 0104755 root root 0 0 0 X
+/usr/bin/rsh 9320 1289218979 19598b77efec5d883cd6d61210202ce2ecdd1725509fb36ef32fb474bdd57bb8 0104755 root root 0 0 0 X

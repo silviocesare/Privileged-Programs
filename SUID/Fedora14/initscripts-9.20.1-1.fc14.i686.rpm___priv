@@ -1,2 +1,2 @@
-2228384    4 -rwxr-sr-x   1 silvio   silvio       3988 Sep 28 05:58 ./sbin/netreport
-2228393    8 -rwsr-xr-x   1 silvio   silvio       7036 Sep 28 05:58 ./usr/sbin/usernetctl
+/sbin/netreport 3988 1285617513 5f3bb8f3d770353903d902a34257ff5c89d10d0096e2ea71e16904c1de23bafb 0102755 root root 0 0 0 X
+/usr/sbin/usernetctl 7036 1285617512 57f124e07db669a90061a2dfa3788d35989710d15800deb6618d9aab10ba516f 0104755 root root 0 0 0 X

@@ -1,7 +1,7 @@
-2228254  272 -r-sr-sr-x   1 silvio   silvio     277672 Apr 17  2010 ./usr/sbin/uucico
-2228257  120 -r-sr-sr-x   1 silvio   silvio     122016 Apr 17  2010 ./usr/sbin/uuxqt
-2228242  108 -r-sr-xr-x   1 silvio   silvio     108536 Apr 17  2010 ./usr/bin/uucp
-2228246  116 -r-sr-xr-x   1 silvio   silvio     118504 Apr 17  2010 ./usr/bin/uustat
-2228244   44 -r-sr-sr-x   1 silvio   silvio      42988 Apr 17  2010 ./usr/bin/uuname
-2228241  152 -r-sr-sr-x   1 silvio   silvio     155508 Apr 17  2010 ./usr/bin/cu
-2228248  108 -r-sr-xr-x   1 silvio   silvio     109076 Apr 17  2010 ./usr/bin/uux
+/usr/bin/cu 155508 1271489586 7c72379bf77b65c342dc6db0f03c92bdf662d40b3898696c65b862242a971852 0106555 uucp uucp 0 0 0 X
+/usr/bin/uucp 108536 1271489586 73a42b67a490fca4e7b6428927a8005a8c95e6ff69132746aee9894bc8ecd5bc 0104555 uucp uucp 0 0 0 X
+/usr/bin/uuname 42988 1271489586 592c181669339969d2337e56b9a309db3761116e6409bf6cd8a19534bb116b58 0106555 uucp uucp 0 0 0 X
+/usr/bin/uustat 118504 1271489586 8b25a1f689eca92d8aec87785a12c7e536fffe3142dafd2640b5d61345352097 0104555 uucp uucp 0 0 0 X
+/usr/bin/uux 109076 1271489586 c6d94f4a352699506a25494d691f3c3a85559cb31041a529a386fa5b3158567f 0104555 uucp uucp 0 0 0 X
+/usr/sbin/uucico 277672 1271489586 953ebc5864e27b39b450a510969f86322138f3fa7a0001b8e463c128bd139f09 0106555 uucp uucp 0 0 0 X
+/usr/sbin/uuxqt 122016 1271489587 0882ce5dc0696162b2020babfd274d24dd3ea972b323edac0e4581952ab48082 0106555 uucp uucp 0 0 0 X

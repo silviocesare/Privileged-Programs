@@ -1,2 +1,2 @@
-2228269    8 -rwsr-xr-x   1 silvio   silvio       6884 Jun 12 03:24 ./usr/bin/kpac_dhcp_helper
-2228260    8 -rwsr-xr-x   1 silvio   silvio       5872 Jun 12 03:24 ./usr/bin/kgrantpty
+/usr/bin/kgrantpty 5872 1276277098 7fa31a7bc573d9fff5faf7a67cf7e655cbb3a2209b5b067a415b58c23ac8a983 0104755 root root 0 0 0 X
+/usr/bin/kpac_dhcp_helper 6884 1276277099 16c4357232cf6da0be8f00da22c3d5b8f48bb95d51362001924f4a340d1ff2fc 0104755 root root 0 0 0 X

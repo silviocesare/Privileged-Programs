@@ -1,2 +1,2 @@
-2228227   40 -rwsr-xr-x   1 silvio   silvio      37800 Jul 13 17:05 ./bin/ping
-2228228   44 -rwsr-xr-x   1 silvio   silvio      43744 Jul 13 17:05 ./bin/ping6
+/bin/ping 37800 1279004714 b49ba2c6698820f77d49a7b5d8a57d104434afa3382e79c457d9dc44b315c0cf 0104755 root root 0 0 0 X
+/bin/ping6 43744 1279004715 b0ea341a4d647ad2ee60fddfd9955c9d61e0c49b861e8665d7a2084ed36169f5 0104755 root root 0 0 0 X

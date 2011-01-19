@@ -1,2 +1,2 @@
-2228229   28 -rwsr-xr-x   1 silvio   silvio      25196 Jul 26  2009 ./usr/sbin/fping6
-2228228   24 -rwsr-xr-x   1 silvio   silvio      24328 Jul 26  2009 ./usr/sbin/fping
+/usr/sbin/fping 24328 1248547203 0b7b2af3d1bb88abc753bdac978983fdf9b3aceab475122e9341309c64ec33f7 0104755 root root 0 0 0 X
+/usr/sbin/fping6 25196 1248547203 0d9e35ab2f22f0b405f62b9a1191366d9819a9dcd1b99c30b0472d1077da68b5 0104755 root root 0 0 0 X

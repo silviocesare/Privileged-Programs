@@ -1,1 +1,1 @@
-2228230   48 -rwsr-x---   1 silvio   silvio      45760 Oct  8 02:08 ./usr/lib/nagios/plugins/check_fping
+/usr/lib/nagios/plugins/check_fping 45760 1286464109 829adbaf5aebb38ad7079f7efeb4763c5ba4c6724a64b7a08816de2ba17dcce1 0104750 root nagios 0 0 0 X

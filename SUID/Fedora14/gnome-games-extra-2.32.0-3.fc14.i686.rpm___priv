@@ -1,8 +1,8 @@
-2228249  120 -r-xr-s--x   1 silvio   silvio     122492 Oct  2 05:04 ./usr/bin/mahjongg
-2228245  192 -r-xr-s--x   1 silvio   silvio     192992 Oct  2 05:04 ./usr/bin/gnobots2
-2228250  124 -r-xr-s--x   1 silvio   silvio     126684 Oct  2 05:04 ./usr/bin/quadrapassel
-2228247  132 -r-xr-s--x   1 silvio   silvio     132292 Oct  2 05:04 ./usr/bin/gnotski
-2228242  144 -r-xr-s--x   1 silvio   silvio     144396 Oct  2 05:04 ./usr/bin/glines
-2228246  132 -r-xr-s--x   1 silvio   silvio     133988 Oct  2 05:04 ./usr/bin/gnotravex
-2228244  140 -r-xr-s--x   1 silvio   silvio     139732 Oct  2 05:04 ./usr/bin/gnibbles
-2228248  100 -r-xr-s--x   1 silvio   silvio     102224 Oct  2 05:04 ./usr/bin/gtali
+/usr/bin/glines 144396 1285959898 8707b74f3a4e1b5f3db9ac711161f0efcdf2ce965499da4ccacbb03a97ae2701 0102551 root games 0 0 0 X
+/usr/bin/gnibbles 139732 1285959899 5b3a400247d2dc5e9125e13d5f975192aacea29405d0d05c330331112bc821f2 0102551 root games 0 0 0 X
+/usr/bin/gnobots2 192992 1285959897 33b02870ddd484ddce4dffaa380004b4bf696d3b495aa62168d197cae46c6be0 0102551 root games 0 0 0 X
+/usr/bin/gnotravex 133988 1285959897 78ff7fb6e875b59e2b2ed9815331aa8a51c59bb2bcb8b6d969db661092dd64e5 0102551 root games 0 0 0 X
+/usr/bin/gnotski 132292 1285959897 5025ba22ea9017ce774ba829cea2137d5f375f08f9514fc4e48907ff2ea63233 0102551 root games 0 0 0 X
+/usr/bin/gtali 102224 1285959899 f3288a1bd17c48605ae0f7fac211bde032f53c61be48b05a9545959b299df0b4 0102551 root games 0 0 0 X
+/usr/bin/mahjongg 122492 1285959898 8a6178b9c1d9b3684400a2ca34cb37087c202299b6ff11824825ad9850f4f03c 0102551 root games 0 0 0 X
+/usr/bin/quadrapassel 126684 1285959898 13c0ee0e790eb0d2b9490aa0bf646011d8334587af853f96ca311e31a8027000 0102551 root games 0 0 0 X
