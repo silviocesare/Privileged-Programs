@@ -1,0 +1,701 @@
+---BEGIN
+amanda-client
+	- -rwsr-xr-- root/backup    5156 2008-08-17 05:08 ./usr/lib/amanda/rundump
+	- -rwsr-xr-- root/backup    6408 2008-08-17 05:08 ./usr/lib/amanda/runtar
+	- -rwsr-xr-- root/backup    5740 2008-08-17 05:08 ./usr/lib/amanda/killpgrp
+	NOTE: checked in lenny amanda-client_2.5.2p1-4_i386.deb
+amanda-server
+	- -rwsr-xr-- root/backup   48156 2008-08-17 05:08 ./usr/lib/amanda/planner
+	- -rwsr-xr-- root/backup   31260 2008-08-17 05:08 ./usr/lib/amanda/dumper
+	- -rwsr-xr-- root/backup   41352 2008-08-17 05:08 ./usr/sbin/amcheck
+	NOTE: checked in lenny amanda-server_2.5.2p1-4_i386.deb
+animals
+	- -rwxr-sr-x games/games   30856 2008-03-07 07:19 ./usr/games/animals
+	NOTE: checked in lenny animals_20031130-2.4_i386.deb
+apache2-suexec-custom
+	- -rwsr-xr-- root/www-data 11848 2010-04-20 05:59 ./usr/lib/apache2/suexec
+	NOTE: checked in lenny apache2-suexec-custom_2.2.9-10+lenny8_i386.deb
+apache2-suexec
+	- -rwsr-xr-- root/www-data 10768 2010-04-20 05:59 ./usr/lib/apache2/suexec
+	NOTE: checked in lenny apache2-suexec_2.2.9-10+lenny8_i386.deb
+apt-watch-backend
+	- -rwsr-xr-x root/root     31688 2008-02-12 16:39 ./usr/lib/apt-watch/apt-watch-auth-helper
+	NOTE: checked in lenny apt-watch-backend_0.3.2-10_i386.deb
+at
+	- -rwsr-sr-x daemon/daemon 39864 2008-10-20 16:34 ./usr/bin/at
+	NOTE: checked in lenny at_3.1.10.2_i386.deb
+aterm-ml
+	- -rwxr-sr-x root/utmp    118804 2008-05-07 04:25 ./usr/bin/katerm
+	- -rwxr-sr-x root/utmp    118772 2008-05-07 04:25 ./usr/bin/caterm
+	- -rwxr-sr-x root/utmp    119636 2008-05-07 04:25 ./usr/bin/gaterm
+	- -rwxr-sr-x root/utmp    118196 2008-05-07 04:25 ./usr/bin/taterm
+	NOTE: checked in lenny aterm-ml_1.0.1-4_i386.deb
+aterm
+	- -rwxr-sr-x root/utmp    114772 2008-05-07 04:25 ./usr/bin/aterm-xterm
+	NOTE: checked in lenny aterm_1.0.1-4_i386.deb
+atomix
+	- -rwxr-sr-x root/games    64304 2006-04-18 14:47 ./usr/games/atomix
+	NOTE: checked in lenny atomix_2.14.0-1_i386.deb
+atris
+	- -rwxr-sr-x root/games   116660 2008-01-22 20:06 ./usr/games/atris
+	NOTE: checked in lenny atris_1.0.7.dfsg.1-7.1_i386.deb
+authbind
+	- -rwsr-xr-x root/root      5568 2007-09-24 05:25 ./usr/lib/authbind/helper
+	NOTE: checked in lenny authbind_1.2.0_i386.deb
+avifile-utils
+	- -rwsr-xr-x root/root      8648 2007-09-30 02:03 ./usr/bin/kv4lsetup
+	NOTE: checked in lenny avifile-utils_0.7.47.20070718-1.2_i386.deb
+bastet
+	- -rwxr-sr-x root/games    18096 2008-03-02 22:48 ./usr/games/bastet
+	NOTE: checked in lenny bastet_0.41-6_i386.deb
+bmv
+	- -rwsr-xr-x root/root     29256 2008-01-28 16:01 ./usr/bin/bmv
+	NOTE: checked in lenny bmv_1.2-23_i386.deb
+bombardier
+	- -rwxr-sr-x root/games    19440 2006-07-13 05:37 ./usr/games/bombardier
+	NOTE: checked in lenny bombardier_0.8.2.2_i386.deb
+bsdgames
+	- -rwxr-sr-x root/games    17260 2008-04-26 06:06 ./usr/games/snake
+	- -rwxr-sr-x root/games   221708 2008-04-26 06:06 ./usr/games/hack
+	- -rwxr-sr-x root/games    18488 2008-04-26 06:06 ./usr/games/tetris-bsd
+	- -rwxr-sr-x root/games    26752 2008-04-26 06:06 ./usr/games/cribbage
+	- -rwxr-sr-x root/games    18132 2008-04-26 06:06 ./usr/games/robots
+	- -rwxr-sr-x root/games   158036 2008-04-26 06:06 ./usr/games/battlestar
+	- -rwxr-sr-x root/games    75580 2008-04-26 06:06 ./usr/games/phantasia
+	- -rwxr-sr-x root/games    23912 2008-04-26 06:06 ./usr/games/canfield
+	- -rwxr-sr-x root/games    69000 2008-04-26 06:06 ./usr/games/sail
+	- -rwxr-sr-x root/games    40072 2008-04-26 06:06 ./usr/games/atc
+	NOTE: checked in lenny bsdgames_2.17-15_i386.deb
+bsdmainutils
+	- -rwxr-sr-x root/tty       7844 2007-11-20 18:35 ./usr/bin/bsd-write
+	NOTE: checked in lenny bsdmainutils_6.1.10_i386.deb
+bsdutils
+	- -rwxr-sr-x root/tty       9888 2008-04-29 11:57 ./usr/bin/wall
+	NOTE: checked in lenny bsdutils_2.13.1.1-1_i386.deb
+chiark-really
+	- -rwsr-xr-- root/root      9720 2008-08-28 08:54 ./usr/sbin/really
+	NOTE: checked in lenny chiark-really_4.1.28_i386.deb
+circuslinux
+	- -rwxr-sr-x root/games    43320 2008-04-30 06:51 ./usr/games/circuslinux
+	NOTE: checked in lenny circuslinux_1.0.3-23_i386.deb
+courier-maildrop
+	- -rwsr-xr-x root/daemon  166304 2008-09-08 09:50 ./usr/bin/maildrop
+	NOTE: checked in lenny courier-maildrop_0.60.0-2_i386.deb
+courier-mta
+	- -rwsr-xr-x daemon/daemon 15604 2008-09-08 09:50 ./usr/bin/cancelmsg
+	- -rwxr-sr-x daemon/daemon 18176 2008-09-08 09:50 ./usr/bin/mailq
+	- -rwsr-xr-- daemon/daemon  3076 2008-09-08 09:50 ./usr/lib/courier/courier/submitmkdir
+	- -rwsr-xr-x root/daemon   27036 2008-09-08 09:50 ./usr/sbin/sendmail
+	NOTE: checked in lenny courier-mta_0.60.0-2_i386.deb
+courier-webadmin
+	- -rwsr-xr-x root/bin       3524 2008-09-08 09:50 ./usr/lib/courier/courier/webmail/webadmin
+	NOTE: checked in lenny courier-webadmin_0.60.0-2_i386.deb
+crawl
+	- -rwxr-sr-x root/games  3760476 2008-07-22 04:25 ./usr/games/crawl
+	NOTE: checked in lenny crawl_0.4.1-1_i386.deb
+cryptmount
+	- -rwsr-xr-x root/root     48456 2008-07-26 19:15 ./usr/bin/cryptmount
+	NOTE: checked in lenny cryptmount_3.0.1-1_i386.deb
+dchroot-dsa
+	- -rwsr-xr-x root/root    797588 2009-03-31 02:21 ./usr/bin/dchroot-dsa
+	NOTE: checked in lenny dchroot-dsa_1.2.2-0+lenny1_i386.deb
+dchroot
+	- -rwsr-xr-x root/root    795812 2009-03-31 02:21 ./usr/bin/dchroot
+	NOTE: checked in lenny dchroot_1.2.2-0+lenny1_i386.deb
+dodgindiamond2
+	- -rwxr-sr-x root/games    53792 2008-02-13 21:45 ./usr/games/dodgindiamond2
+	NOTE: checked in lenny dodgindiamond2_0.2.2-1_i386.deb
+dopewars
+	- -rwxr-sr-x root/games   285152 2008-06-17 13:23 ./usr/games/dopewars
+	NOTE: checked in lenny dopewars_1.5.12-7_i386.deb
+dwm-tools
+	- -rwsr-xr-x root/root      6380 2007-12-27 19:40 ./usr/bin/slock
+	NOTE: checked in lenny dwm-tools_26-2_i386.deb
+ecryptfs-utils
+	- -rwsr-xr-x root/root      9244 2008-12-23 18:18 ./sbin/mount.ecryptfs_private
+	NOTE: checked in lenny ecryptfs-utils_68-1_i386.deb
+eject
+	- -rwsr-xr-x root/root      4552 2008-10-03 23:40 ./usr/lib/eject/dmcrypt-get-device
+	NOTE: checked in lenny eject_2.1.5+deb1-4_i386.deb
+emacs21-bin-common
+	- -rwxr-sr-x root/mail     19408 2008-08-19 23:29 ./usr/lib/emacs/21.4/i486-linux-gnu/movemail
+	NOTE: checked in lenny emacs21-bin-common_21.4a+1-5.6_i386.deb
+emacs22-bin-common
+	- -rwxr-sr-x root/mail     19316 2008-11-10 08:11 ./usr/lib/emacs/22.2/i486-linux-gnu/movemail
+	NOTE: checked in lenny emacs22-bin-common_22.2+2-5_i386.deb
+evolution-data-server
+	- -rwxr-sr-x root/mail      8940 2009-07-20 17:58 ./usr/lib/evolution/camel-lock-helper-1.2
+	NOTE: checked in lenny evolution-data-server_2.22.3-1.1+lenny2_i386.deb
+exim4-daemon-heavy
+	- -rwsr-xr-x root/root    800408 2008-10-01 04:27 ./usr/sbin/exim4
+	NOTE: checked in lenny exim4-daemon-heavy_4.69-9_i386.deb
+exim4-daemon-light
+	- -rwsr-xr-x root/root    695968 2008-10-01 04:27 ./usr/sbin/exim4
+	NOTE: checked in lenny exim4-daemon-light_4.69-9_i386.deb
+fping
+	- -rwsr-xr-x root/root     22520 2008-03-04 11:00 ./usr/bin/fping
+	- -rwsr-xr-x root/root     23384 2008-03-04 11:00 ./usr/bin/fping6
+	NOTE: checked in lenny fping_2.4b2-to-ipv6-15_i386.deb
+freesweep
+	- -rwxr-sr-x root/games    69588 2008-08-28 08:23 ./usr/games/freesweep
+	NOTE: checked in lenny freesweep_0.90-2_i386.deb
+fuse-utils
+	- -rwsr-xr-x root/root     22496 2010-02-01 19:41 ./usr/bin/fusermount
+	NOTE: checked in lenny fuse-utils_2.7.4-1.1+lenny1_i386.deb
+gatos
+	- -rwsr-xr-x root/root      9824 2008-01-14 03:53 ./usr/bin/atitv
+	- -rwsr-xr-x root/root     92944 2008-01-14 03:53 ./usr/bin/xatitv
+	NOTE: checked in lenny gatos_0.0.5-18_i386.deb
+gnome-breakout
+	- -rwxr-sr-x root/games    64168 2007-10-20 05:45 ./usr/games/gnome-breakout
+	NOTE: checked in lenny gnome-breakout_0.5.3-1_i386.deb
+gnome-games
+	- -rwxr-sr-x root/games    92884 2008-11-25 03:02 ./usr/games/glines
+	- -rwxr-sr-x root/games   313412 2008-11-25 03:02 ./usr/games/gnibbles
+	- -rwxr-sr-x root/games   138916 2008-11-25 03:02 ./usr/games/gnobots2
+	- -rwxr-sr-x root/games   112920 2008-11-25 03:02 ./usr/games/gnometris
+	- -rwxr-sr-x root/games    98052 2008-11-25 03:02 ./usr/games/gnomine
+	- -rwxr-sr-x root/games    79420 2008-11-25 03:02 ./usr/games/gnotravex
+	- -rwxr-sr-x root/games    81964 2008-11-25 03:02 ./usr/games/gnotski
+	- -rwxr-sr-x root/games    89924 2008-11-25 03:02 ./usr/games/gtali
+	- -rwxr-sr-x root/games   101544 2008-11-25 03:02 ./usr/games/mahjongg
+	- -rwxr-sr-x root/games    85668 2008-11-25 03:02 ./usr/games/same-gnome
+	NOTE: checked in lenny gnome-games_2.22.3-3_i386.deb
+greed
+	- -rwxr-sr-x root/games    18008 2004-05-24 05:23 ./usr/games/greed
+	NOTE: checked in lenny greed_3.4-2_i386.deb
+gringotts
+	- -rwsr-xr-x root/root    180120 2008-02-12 05:27 ./usr/bin/gringotts
+	NOTE: checked in lenny gringotts_1.2.10~pre1-2_i386.deb
+grunt-uucp
+	- -rwsr-x--- root/uucp      4924 2006-09-05 00:25 ./usr/bin/gruntreceive-uucp
+	NOTE: checked in lenny grunt-uucp_0.5.1_i386.deb
+gweled
+	- -rwxr-sr-x root/games    40064 2006-12-06 05:09 ./usr/games/gweled
+	NOTE: checked in lenny gweled_0.7-2_i386.deb
+hannah
+	- -rwxr-sr-x root/games    71920 2008-04-27 14:22 ./usr/games/hannah
+	NOTE: checked in lenny hannah_1.0-1_i386.deb
+heartbeat
+	- -r-xr-sr-x root/65       10788 2009-04-30 13:05 ./usr/bin/cl_status
+	NOTE: checked in lenny heartbeat_2.1.3-6lenny4_i386.deb
+heroes-ggi
+	- -rwxr-sr-x root/games   299992 2008-09-07 20:54 ./usr/games/heroes-ggi
+	NOTE: checked in lenny heroes-ggi_0.21-8.1_i386.deb
+heroes-sdl
+	- -rwxr-sr-x root/games   291708 2008-09-07 20:54 ./usr/games/heroes-sdl
+	NOTE: checked in lenny heroes-sdl_0.21-8.1_i386.deb
+hobbit
+	- -rwsr-xr-x root/root     52572 2009-05-03 05:42 ./usr/lib/hobbit/server/bin/hobbitping
+	NOTE: checked in lenny hobbit_4.2.0.dfsg-14lenny3_i386.deb
+hztty
+	- -rwxr-sr-x root/utmp    367160 2005-02-11 04:57 ./usr/bin/hztty
+	NOTE: checked in lenny hztty_2.0-6.1_i386.deb
+i810switch
+	- -rwsr-xr-- root/video    10568 2006-12-22 10:05 ./usr/bin/i810switch
+	NOTE: checked in lenny i810switch_0.6.5-3_i386.deb
+icebreaker
+	- -rwxr-sr-x root/games    67944 2007-11-09 15:10 ./usr/games/icebreaker
+	NOTE: checked in lenny icebreaker_1.21-11_i386.deb
+ifgate
+	- -rwsr-xr-- 64000/news   128764 2008-08-16 07:31 ./usr/lib/ifmail/ifmail
+	NOTE: checked in lenny ifgate_2.14tx8.10-19.4_i386.deb
+inetutils-ping
+	- -rwsr-xr-x root/root     24756 2008-12-20 18:40 ./bin/ping
+	- -rwsr-xr-x root/root     16288 2008-12-20 18:40 ./bin/ping6
+	NOTE: checked in lenny inetutils-ping_1.5.dfsg.1-9_i386.deb
+inn2-inews
+	- -rwsr-xr-x news/uucp    126980 2008-12-15 10:51 ./usr/lib/news/bin/rnews
+	NOTE: checked in lenny inn2-inews_2.4.5-5_i386.deb
+inn2-lfs
+	- -rwsr-xr-- root/news     36084 2008-12-15 10:51 ./usr/lib/news/bin/inndstart
+	- -rwsr-xr-- root/news     31812 2008-12-15 10:51 ./usr/lib/news/bin/startinnfeed
+	NOTE: checked in lenny inn2-lfs_2.4.5-5_i386.deb
+inn2
+	- -rwsr-xr-- root/news     36052 2008-12-15 10:51 ./usr/lib/news/bin/inndstart
+	- -rwsr-xr-- root/news     31716 2008-12-15 10:51 ./usr/lib/news/bin/startinnfeed
+	NOTE: checked in lenny inn2_2.4.5-5_i386.deb
+inn
+	- -rwsr-xr-- root/news      8600 2008-09-10 10:23 ./usr/sbin/inndstart
+	- -rwxr-sr-x root/news     40932 2008-09-10 10:23 ./usr/bin/inews
+	- -rwxr-sr-x root/news     19604 2008-09-10 10:23 ./usr/bin/rnews
+	NOTE: checked in lenny inn_1.7.2q-38_i386.deb
+ipopd
+	- -rwxr-sr-x root/mail     18312 2008-12-31 07:34 ./usr/sbin/ipop2d
+	- -rwxr-sr-x root/mail     25068 2008-12-31 07:34 ./usr/sbin/ipop3d
+	NOTE: checked in lenny ipopd_2007b~dfsg-4+lenny3_i386.deb
+iputils-arping
+	- -rwsr-xr-x root/root     10800 2007-12-10 15:03 ./usr/bin/arping
+	NOTE: checked in lenny iputils-arping_20071127-1_i386.deb
+iputils-ping
+	- -rwsr-xr-x root/root     30788 2007-12-10 15:03 ./bin/ping
+	- -rwsr-xr-x root/root     26616 2007-12-10 15:03 ./bin/ping6
+	NOTE: checked in lenny iputils-ping_20071127-1_i386.deb
+iputils-tracepath
+	- -rwsr-xr-x root/root     11864 2007-12-10 15:03 ./usr/bin/traceroute6.iputils
+	NOTE: checked in lenny iputils-tracepath_20071127-1_i386.deb
+jazip
+	- -rwsr-xr-- root/floppy   66688 2008-05-28 09:28 ./usr/bin/jazip
+	NOTE: checked in lenny jazip_0.34-12_i386.deb
+jfbterm
+	- -rwsr-sr-x root/utmp     65160 2008-06-04 16:09 ./usr/bin/jfbterm
+	NOTE: checked in lenny jfbterm_0.4.7-7.2_i386.deb
+kdebase-bin
+	- -rwxr-sr-x root/nogroup  47912 2010-04-17 21:27 ./usr/bin/kdesud
+	NOTE: checked in lenny kdebase-bin_3.5.9.dfsg.1-6+lenny1_i386.deb
+kdelibs4c2a
+	- -rwsr-xr-x root/root      6068 2010-02-15 00:07 ./usr/bin/kpac_dhcp_helper
+	- -rwsr-xr-x root/root     11003 2006-10-02 04:33 ./usr/bin/fileshareset
+	- -rwsr-xr-x root/root      5772 2010-02-15 00:07 ./usr/bin/start_kdeinit
+	- -rwsr-xr-x root/root      5752 2010-02-15 00:07 ./usr/bin/kgrantpty
+	NOTE: checked in lenny kdelibs4c2a_3.5.10.dfsg.1-0lenny4_i386.deb
+kobodeluxe
+	- -rwxr-sr-x root/games   439464 2008-07-05 05:13 ./usr/games/kobodl
+	NOTE: checked in lenny kobodeluxe_0.5.1-3_i386.deb
+kon2
+	- -rwsr-xr-x root/root     48320 2008-05-31 10:23 ./usr/bin/kon
+	NOTE: checked in lenny kon2_0.3.9b-20_i386.deb
+kppp
+	- -rwsr-xr-- root/dip     587300 2008-10-11 06:05 ./usr/bin/kppp
+	NOTE: checked in lenny kppp_3.5.10-2_i386.deb
+krb5-user
+	- -rwsr-xr-x root/root     39452 2010-05-20 21:06 ./usr/bin/ksu
+	NOTE: checked in lenny krb5-user_1.6.dfsg.4~beta1-5lenny4_i386.deb
+kterm
+	- -rwxr-sr-x root/utmp    211164 2006-04-17 13:30 ./usr/bin/kterm
+	NOTE: checked in lenny kterm_6.2.0-46_i386.deb
+ktsuss
+	- -rwsr-xr-x root/root      7540 2008-05-18 00:08 ./usr/bin/ktsuss
+	NOTE: checked in lenny ktsuss_1.3-2_i386.deb
+lbreakout2
+	- -rwxr-sr-x root/games   232796 2006-01-21 05:49 ./usr/games/lbreakout2
+	NOTE: checked in lenny lbreakout2_2.5.2-2.1_i386.deb
+libc6
+	- -rwsr-xr-x root/root      9620 2010-06-06 10:24 ./usr/lib/pt_chown
+	NOTE: checked in lenny libc6_2.7-18lenny4_i386.deb
+liblockfile1
+	- -rwxr-sr-x root/mail     10276 2008-11-18 09:05 ./usr/bin/dotlockfile
+	NOTE: checked in lenny liblockfile1_1.08-3_i386.deb
+libpam-ccreds
+	- -rwsr-xr-x root/root      5720 2007-12-08 00:27 ./sbin/ccreds_chkpwd
+	NOTE: checked in lenny libpam-ccreds_8-1_i386.deb
+libpam-dotfile
+	- -rwsr-xr-x root/root     11376 2008-01-14 23:52 ./usr/sbin/pam-dotfile-helper
+	NOTE: checked in lenny libpam-dotfile_0.7-4_i386.deb
+libpam-foreground
+	- -rwsr-xr-x root/root      3200 2008-05-31 03:37 ./bin/check-foreground-console
+	NOTE: checked in lenny libpam-foreground_0.5_i386.deb
+libpam-modules
+	- -rwxr-sr-x root/shadow   26372 2009-03-18 11:03 ./sbin/unix_chkpwd
+	NOTE: checked in lenny libpam-modules_1.0.1-5+lenny1_i386.deb
+libpam-tmpdir
+	- -rwsr-xr-x root/root      7076 2008-04-02 06:07 ./sbin/pam-tmpdir-helper
+	NOTE: checked in lenny libpam-tmpdir_0.07-3_i386.deb
+libpam-unix2
+	- -r-sr-xr-x root/root      6132 2008-08-04 17:34 ./sbin/unix2_chkpwd
+	NOTE: checked in lenny libpam-unix2_2.4.1-2_i386.deb
+libvte9
+	- -rwxr-sr-x root/utmp      9972 2008-10-25 05:47 ./usr/lib/libvte9/gnome-pty-helper
+	NOTE: checked in lenny libvte9_0.16.14-4_i386.deb
+libzvt2
+	- -rwxr-sr-x root/utmp      9972 2008-04-11 20:31 ./usr/sbin/gnome-pty-helper
+	NOTE: checked in lenny libzvt2_1.4.2-37+b1_i386.deb
+lockfile-progs
+	- -rwxr-sr-x root/mail      6516 2008-03-04 19:44 ./usr/bin/mail-touchlock
+	NOTE: checked in lenny lockfile-progs_0.1.11-0.1_i386.deb
+login
+	- -rwsr-xr-x root/root     22788 2009-11-15 01:41 ./usr/bin/newgrp
+	- -rwsr-xr-x root/root     27108 2009-11-15 01:41 ./bin/su
+	NOTE: checked in lenny login_4.1.1-6+lenny1_i386.deb
+loop-aes-utils
+	- -rwsr-xr-x root/root     81856 2008-08-22 20:09 ./bin/mount
+	- -rwsr-xr-x root/root     29464 2008-08-22 20:09 ./bin/umount
+	NOTE: checked in lenny loop-aes-utils_2.13.1-4_i386.deb
+lpr
+	- -rwxr-sr-x root/lp       32232 2008-05-20 12:13 ./usr/sbin/lpc
+	- -rwsr-sr-x root/lp       24144 2008-05-20 12:13 ./usr/bin/lpr
+	- -rwsr-sr-x root/lp       23988 2008-05-20 12:13 ./usr/bin/lpq
+	- -rwsr-sr-x root/lp       22316 2008-05-20 12:13 ./usr/bin/lprm
+	NOTE: checked in lenny lpr_2008.05.17_i386.deb
+ltris
+	- -rwxr-sr-x root/games    92300 2006-01-17 01:15 ./usr/games/ltris
+	NOTE: checked in lenny ltris_1.0.11-1_i386.deb
+luxman
+	- -rwsr-xr-x root/root     91684 2008-04-14 22:06 ./usr/games/luxman
+	NOTE: checked in lenny luxman_0.41-24.1_i386.deb
+mach
+	- -rwsr-xr-- root/root      8472 2007-04-20 02:27 ./usr/lib/mach/sbin/mach-helper
+	NOTE: checked in lenny mach_0.9.1-2_i386.deb
+maildrop
+	- -rwxr-sr-x root/mail     10660 2010-01-29 05:28 ./usr/bin/lockmail.maildrop
+	- -rwxr-sr-x root/mail    166280 2010-01-29 05:28 ./usr/bin/maildrop
+	NOTE: checked in lenny maildrop_2.0.4-3+lenny3_i386.deb
+mailleds
+	- -rwsr-xr-x root/bin      14552 2006-01-21 07:17 ./usr/bin/mailleds
+	NOTE: checked in lenny mailleds_0.93-13_i386.deb
+mailman
+	- -rwxr-sr-x root/list      6752 2010-05-21 07:39 ./usr/lib/mailman/mail/mailman
+	- -rwxr-sr-x root/list      6364 2010-05-21 07:39 ./usr/lib/cgi-bin/mailman/admin
+	- -rwxr-sr-x root/list      6364 2010-05-21 07:39 ./usr/lib/cgi-bin/mailman/create
+	- -rwxr-sr-x root/list      6368 2010-05-21 07:39 ./usr/lib/cgi-bin/mailman/listinfo
+	- -rwxr-sr-x root/list      6364 2010-05-21 07:39 ./usr/lib/cgi-bin/mailman/roster
+	- -rwxr-sr-x root/list      6368 2010-05-21 07:39 ./usr/lib/cgi-bin/mailman/confirm
+	- -rwxr-sr-x root/list      6368 2010-05-21 07:39 ./usr/lib/cgi-bin/mailman/admindb
+	- -rwxr-sr-x root/list      6368 2010-05-21 07:39 ./usr/lib/cgi-bin/mailman/private
+	- -rwxr-sr-x root/list      6368 2010-05-21 07:39 ./usr/lib/cgi-bin/mailman/edithtml
+	- -rwxr-sr-x root/list      6364 2010-05-21 07:39 ./usr/lib/cgi-bin/mailman/rmlist
+	- -rwxr-sr-x root/list      6368 2010-05-21 07:39 ./usr/lib/cgi-bin/mailman/options
+	- -rwxr-sr-x root/list      6372 2010-05-21 07:39 ./usr/lib/cgi-bin/mailman/subscribe
+	NOTE: checked in lenny mailman_2.1.11-11+lenny1_i386.deb
+mailutils
+	- -rwxr-sr-x root/mail      6196 2008-08-01 22:25 ./usr/bin/dotlock.mailutils
+	NOTE: checked in lenny mailutils_1.2+dfsg1-4_i386.deb
+masqmail
+	- -rwsr-xr-x root/root    117140 2008-03-04 15:12 ./usr/sbin/masqmail
+	NOTE: checked in lenny masqmail_0.2.21-4_i386.deb
+mirrormagic
+	- -rwxr-sr-x root/games   206260 2008-04-06 22:47 ./usr/games/mirrormagic
+	NOTE: checked in lenny mirrormagic_2.0.2.0deb1-7_i386.deb
+mlock
+	- -rwxr-sr-x root/mail      6820 2008-12-31 07:34 ./usr/bin/mlock
+	NOTE: checked in lenny mlock_2007b~dfsg-4+lenny3_i386.deb
+moon-buggy-esd
+	- -rwxr-sr-x root/games    64136 2008-03-25 06:03 ./usr/games/moon-buggy
+	NOTE: checked in lenny moon-buggy-esd_1.0.51-5_i386.deb
+moon-buggy
+	- -rwxr-sr-x root/games    63784 2008-03-25 06:03 ./usr/games/moon-buggy
+	NOTE: checked in lenny moon-buggy_1.0.51-5_i386.deb
+mount
+	- -rwsr-xr-x root/root     44088 2008-04-29 11:57 ./bin/umount
+	- -rwsr-xr-x root/root     64112 2008-04-29 11:57 ./bin/mount
+	NOTE: checked in lenny mount_2.13.1.1-1_i386.deb
+mtr-tiny
+	- -rwsr-xr-x root/root     45432 2008-04-17 12:46 ./usr/bin/mtr
+	NOTE: checked in lenny mtr-tiny_0.73-1_i386.deb
+mtr
+	- -rwsr-xr-x root/root     65656 2008-04-17 12:46 ./usr/bin/mtr
+	NOTE: checked in lenny mtr_0.73-1_i386.deb
+mutt
+	- -rwxr-sr-x root/mail      7536 2009-02-09 08:12 ./usr/bin/mutt_dotlock
+	NOTE: checked in lenny mutt_1.5.18-6_i386.deb
+ncpfs
+	- -rwsr-xr-x root/root     35692 2008-06-08 19:57 ./usr/bin/nwsfind
+	- -rwsr-xr-x root/root    142764 2008-06-08 19:57 ./usr/bin/ncpmount
+	- -rwsr-xr-x root/root     30924 2008-06-08 19:57 ./usr/bin/ncpumount
+	NOTE: checked in lenny ncpfs_2.2.6-5_i386.deb
+ndisc6
+	- -rwsr-xr-x root/root     13924 2008-03-26 08:04 ./bin/rdisc6
+	- -rwsr-xr-x root/root     20400 2008-03-26 08:04 ./usr/bin/rltraceroute6
+	- -rwsr-xr-x root/root     10936 2008-03-26 08:04 ./usr/bin/ndisc6
+	NOTE: checked in lenny ndisc6_0.9.7-1_i386.deb
+nethack-console
+	- -rwxr-sr-x root/games  1675268 2008-10-29 09:29 ./usr/lib/games/nethack/nethack-console
+	NOTE: checked in lenny nethack-console_3.4.3-10.6_i386.deb
+nethack-lisp
+	- -rwxr-sr-x root/games  1679920 2008-10-29 09:29 ./usr/lib/games/nethack/nethack-lisp
+	NOTE: checked in lenny nethack-lisp_3.4.3-10.6_i386.deb
+nethack-qt
+	- -rwxr-sr-x root/games  2037312 2008-10-29 09:29 ./usr/lib/games/nethack/nethack-qt
+	NOTE: checked in lenny nethack-qt_3.4.3-10.6_i386.deb
+nethack-x11
+	- -rwxr-sr-x root/games  1752304 2008-10-29 09:29 ./usr/lib/games/nethack/nethack-x11
+	NOTE: checked in lenny nethack-x11_3.4.3-10.6_i386.deb
+nfs-common
+	- -rwsr-xr-x root/root     68072 2010-04-18 21:48 ./sbin/mount.nfs
+	NOTE: checked in lenny nfs-common_1.1.2-6lenny2_i386.deb
+nighthawk
+	- -rwxr-sr-x root/games    77188 2006-01-25 21:53 ./usr/games/nighthawk
+	NOTE: checked in lenny nighthawk_1.0-15.1_i386.deb
+nullmailer
+	- -rwsr-xr-x mail/root     10952 2008-10-21 15:21 ./usr/bin/mailq
+	- -rwsr-xr-x mail/root     15912 2008-10-21 15:21 ./usr/sbin/nullmailer-queue
+	NOTE: checked in lenny nullmailer_1.04-1.1_i386.deb
+nwall
+	- -r-xr-sr-x root/tty       9824 2007-03-24 20:27 ./usr/bin/nwall
+	NOTE: checked in lenny nwall_1.32+debian-4_i386.deb
+omega-rpg
+	- -rwxr-sr-x root/games   566216 2008-06-02 01:53 ./usr/games/omega-rpg
+	NOTE: checked in lenny omega-rpg_0.90-pa9-15_i386.deb
+op
+	- -rwsr-xr-x root/root     71464 2008-10-21 08:10 ./usr/bin/op
+	NOTE: checked in lenny op_1.32-4_i386.deb
+open-vm-tools
+	- -rwsr-xr-x root/root     45784 2009-03-21 22:41 ./sbin/mount.vmhgfs
+	NOTE: checked in lenny open-vm-tools_2008.11.18-130226-1lenny2_i386.deb
+openssh-client
+	- -rwsr-xr-x root/root    192912 2009-01-14 11:40 ./usr/lib/openssh/ssh-keysign
+	NOTE: checked in lenny openssh-client_5.1p1-5_i386.deb
+opie-server
+	- -rwsr-xr-x root/root     37416 2006-07-19 07:22 ./usr/bin/opiepasswd
+	NOTE: checked in lenny opie-server_2.32-10.2_i386.deb
+oping
+	- -rwsr-xr-x root/root      8404 2007-04-11 15:05 ./usr/bin/oping
+	NOTE: checked in lenny oping_0.3.5-1_i386.deb
+orville-write
+	- -rwsr-sr-x root/tty      14548 2008-06-06 06:46 ./usr/bin/mesg
+	- -rwxr-sr-x root/tty      11316 2008-06-06 06:46 ./usr/bin/amin
+	- -rwxr-sr-x root/tty       8532 2008-06-06 06:46 ./usr/bin/huh
+	- -rwxr-sr-x root/tty       8404 2008-06-06 06:46 ./usr/bin/helpers
+	- -rwsr-sr-x root/tty      31220 2008-06-06 06:46 ./usr/bin/orville-write
+	NOTE: checked in lenny orville-write_2.55-2.2_i386.deb
+pachi
+	- -rwxr-sr-x root/games    49872 2007-07-15 00:49 ./usr/games/pachi
+	NOTE: checked in lenny pachi_1.0-5_i386.deb
+passwd
+	- -rwxr-sr-x root/shadow   47416 2009-11-15 01:41 ./usr/bin/chage
+	- -rwsr-xr-x root/root     32184 2009-11-15 01:41 ./usr/bin/chfn
+	- -rwsr-xr-x root/root     27736 2009-11-15 01:41 ./usr/bin/chsh
+	- -rwxr-sr-x root/shadow   18660 2009-11-15 01:41 ./usr/bin/expiry
+	- -rwsr-xr-x root/root     41528 2009-11-15 01:41 ./usr/bin/gpasswd
+	- -rwsr-xr-x root/root     31704 2009-11-15 01:41 ./usr/bin/passwd
+	NOTE: checked in lenny passwd_4.1.1-6+lenny1_i386.deb
+perl-suid
+	- -rwsr-xr-x root/root     59940 2009-08-29 08:45 ./usr/bin/sperl5.10.0
+	NOTE: checked in lenny perl-suid_5.10.0-19lenny2_i386.deb
+petris
+	- -rwxr-sr-x root/games    15440 2006-10-08 16:58 ./usr/games/petris
+	NOTE: checked in lenny petris_1.0.1-7_i386.deb
+phalanx
+	- -rwxr-sr-x root/games   110248 2008-07-23 15:20 ./usr/games/phalanx
+	NOTE: checked in lenny phalanx_22+d051004-7_i386.deb
+pidgin-blinklight
+	- -rwsr-xr-x root/root      3068 2008-02-06 21:47 ./usr/lib/pidgin-blinklight/blinklight-fixperm
+	NOTE: checked in lenny pidgin-blinklight_0.10-2_i386.deb
+pinball
+	- -rwxr-sr-x root/games   342960 2006-11-24 02:09 ./usr/games/pinball
+	NOTE: checked in lenny pinball_0.3.1-7_i386.deb
+ppmtofb
+	- -rwsr-xr-x root/root     22256 2008-02-09 21:51 ./usr/bin/ppmtofb
+	NOTE: checked in lenny ppmtofb_0.32-0.1_i386.deb
+ppp
+	- -rwsr-xr-- root/dip     269156 2008-11-29 04:48 ./usr/sbin/pppd
+	NOTE: checked in lenny ppp_2.4.4rel-10.1_i386.deb
+pppoe
+	- -rwsr-xr-- root/dip      28928 2007-04-18 07:23 ./usr/sbin/pppoe
+	NOTE: checked in lenny pppoe_3.8-3_i386.deb
+procmail
+	- -rwsr-sr-x root/mail     72544 2006-05-01 05:34 ./usr/bin/procmail
+	- -rwxr-sr-x root/mail     12748 2006-05-01 05:34 ./usr/bin/lockfile
+	NOTE: checked in lenny procmail_3.22-16_i386.deb
+pterm
+	- -rwxr-sr-x root/utmp    400568 2008-05-28 18:29 ./usr/bin/pterm
+	NOTE: checked in lenny pterm_0.60-3_i386.deb
+pytris
+	- -rwxr-sr-x root/games     2848 2006-04-07 07:10 ./usr/games/pytris
+	NOTE: checked in lenny pytris_0.98_i386.deb
+rockdodger
+	- -rwxr-sr-x root/games    34872 2007-11-25 14:30 ./usr/games/rockdodger
+	NOTE: checked in lenny rockdodger_0.6.0a-6_i386.deb
+rsh-client
+	- -rwsr-xr-x root/root     15560 2007-08-16 19:37 ./usr/bin/netkit-rcp
+	- -rwsr-xr-x root/root      8356 2007-08-16 19:37 ./usr/bin/netkit-rsh
+	- -rwsr-xr-x root/root     11624 2007-08-16 19:37 ./usr/bin/netkit-rlogin
+	NOTE: checked in lenny rsh-client_0.17-14_i386.deb
+rsh-redone-client
+	- -rwsr-xr-x root/root     10592 2008-05-07 19:09 ./usr/bin/rsh-redone-rlogin
+	- -rwsr-xr-x root/root     10128 2008-05-07 19:09 ./usr/bin/rsh-redone-rsh
+	NOTE: checked in lenny rsh-redone-client_83-1_i386.deb
+rxvt-ml
+	- -rwxr-sr-x root/utmp    135784 2008-04-25 00:16 ./usr/bin/krxvt
+	- -rwxr-sr-x root/utmp    135824 2008-04-25 00:16 ./usr/bin/crxvt-big5
+	- -rwxr-sr-x root/utmp    135696 2008-04-25 00:16 ./usr/bin/crxvt-gb
+	- -rwxr-sr-x root/utmp    135740 2008-04-25 00:16 ./usr/bin/grxvt
+	NOTE: checked in lenny rxvt-ml_2.6.4-14_i386.deb
+rxvt
+	- -rwxr-sr-x root/utmp    100628 2008-04-25 00:16 ./usr/bin/rxvt-xterm
+	- -rwxr-sr-x root/utmp    130780 2008-04-25 00:16 ./usr/bin/rxvt-xpm
+	NOTE: checked in lenny rxvt_2.6.4-14_i386.deb
+sbox-dtc
+	- -rwsr-xr-x root/root     20324 2008-10-24 06:38 ./usr/lib/cgi-bin/sbox
+	NOTE: checked in lenny sbox-dtc_1.11-5_i386.deb
+scamper
+	- -rwsr-xr-x root/root    151072 2008-07-27 01:19 ./usr/bin/scamper
+	NOTE: checked in lenny scamper_20070523n-1_i386.deb
+schroot
+	- -rwsr-xr-x root/root    763044 2009-03-31 02:21 ./usr/bin/schroot
+	NOTE: checked in lenny schroot_1.2.2-0+lenny1_i386.deb
+screen
+	- -rwxr-sr-x root/utmp    328800 2009-04-02 11:10 ./usr/bin/screen
+	NOTE: checked in lenny screen_4.0.3-11+lenny1_i386.deb
+sendmail-bin
+	- -rwxr-sr-x root/mail     72532 2010-01-30 01:04 ./usr/lib/sm.bin/mailstats
+	- -rwxr-sr-x root/mail    853272 2010-01-30 01:04 ./usr/lib/sm.bin/sendmail
+	NOTE: checked in lenny sendmail-bin_8.14.3-5+lenny1_i386.deb
+sensible-mda
+	- -rwsr-xr-x root/root      9460 2010-01-30 01:04 ./usr/sbin/sensible-mda
+	NOTE: checked in lenny sensible-mda_8.14.3-5+lenny1_i386.deb
+slashem-gtk
+	- -rwxr-sr-x root/games  2197700 2008-09-08 22:10 ./usr/games/slashem-gtk
+	NOTE: checked in lenny slashem-gtk_0.0.7E7F3-1.3_i386.deb
+slashem-sdl
+	- -rwxr-sr-x root/games  2057252 2008-09-08 22:10 ./usr/games/slashem-sdl
+	NOTE: checked in lenny slashem-sdl_0.0.7E7F3-1.3_i386.deb
+slashem-x11
+	- -rwxr-sr-x root/games  2029252 2008-09-08 22:10 ./usr/games/slashem-x11
+	NOTE: checked in lenny slashem-x11_0.0.7E7F3-1.3_i386.deb
+slashem
+	- -rwxr-sr-x root/games  1979908 2008-09-08 22:09 ./usr/lib/games/slashem/slashem
+	NOTE: checked in lenny slashem_0.0.7E7F3-1.3_i386.deb
+sleepd
+	- -rwsr-xr-x root/root      4764 2008-08-13 12:58 ./usr/bin/sleepctl
+	NOTE: checked in lenny sleepd_1.11_i386.deb
+smartlist
+	- -rwsr-xr-x root/list     21548 2007-01-19 05:52 ./var/list/.bin/multigram
+	NOTE: checked in lenny smartlist_3.15-20_i386.deb
+smbfs
+	- -rwsr-xr-x root/root      9764 2010-04-10 15:53 ./sbin/umount.cifs
+	- -rwsr-xr-x root/root     26468 2010-04-10 15:53 ./sbin/mount.cifs
+	NOTE: checked in lenny smbfs_3.2.5-4lenny11_i386.deb
+spectemu-svga
+	- -rwsr-xr-x root/root    142332 2008-05-29 07:05 ./usr/bin/vgaspect
+	NOTE: checked in lenny spectemu-svga_0.94a-8_i386.deb
+spicctrl
+	- -rwsr-xr-x root/root      6292 2007-11-19 04:06 ./usr/bin/spicctrl
+	NOTE: checked in lenny spicctrl_1.9-2_i386.deb
+splitvt
+	- -rwxr-sr-x root/utmp     44348 2008-08-03 22:37 ./usr/bin/splitvt
+	NOTE: checked in lenny splitvt_1.6.6-7_i386.deb
+squid
+	- -rwxr-sr-- proxy/shadow   7908 2009-02-06 06:19 ./usr/lib/squid/getpwnam_auth
+	- -rwxr-sr-- proxy/shadow  10616 2009-02-06 06:19 ./usr/lib/squid/pam_auth
+	NOTE: checked in lenny squid_2.7.STABLE3-4.1_i386.deb
+sqwebmail
+	- -rwxr-sr-x daemon/daemon  3500 2008-09-08 09:50 ./usr/lib/courier/courier/sqwebpasswd
+	NOTE: checked in lenny sqwebmail_0.60.0-2_i386.deb
+sudo-ldap
+	- -rwsr-xr-x root/root    122556 2010-06-12 01:37 ./usr/bin/sudo
+	NOTE: checked in lenny sudo-ldap_1.6.9p17-3_i386.deb
+sudo
+	- -rwsr-xr-x root/root    111196 2010-06-12 01:37 ./usr/bin/sudo
+	NOTE: checked in lenny sudo_1.6.9p17-3_i386.deb
+super
+	- -rwsr-xr-x root/root    650708 2008-04-20 02:02 ./usr/bin/super
+	NOTE: checked in lenny super_3.30.0-2_i386.deb
+suphp-common
+	- -rwsr-xr-x root/root    187688 2008-06-04 18:44 ./usr/lib/suphp/suphp
+	NOTE: checked in lenny suphp-common_0.6.2-3_i386.deb
+svgalib-bin
+	- -rwsr-xr-x root/root      5216 2008-06-22 17:15 ./usr/bin/restorefont
+	- -rwsr-xr-x root/root      3096 2008-06-22 17:15 ./usr/bin/dumpreg
+	- -rwsr-xr-x root/root      5012 2008-06-22 17:15 ./usr/bin/restorepalette
+	- -rwsr-xr-x root/root      5656 2008-06-22 17:15 ./usr/bin/restoretextmode
+	NOTE: checked in lenny svgalib-bin_1.4.3-27_i386.deb
+sympa
+	- -rwsr-xr-x root/root      5968 2008-10-20 08:37 ./usr/lib/sympa/bin/queue
+	- -rwsr-xr-x root/root      5684 2008-10-20 08:37 ./usr/lib/sympa/bin/bouncequeue
+	NOTE: checked in lenny sympa_5.3.4-6.1_i386.deb
+systemtap
+	- -rwsr-xr-x root/root     30532 2009-03-15 05:34 ./usr/bin/staprun
+	NOTE: checked in lenny systemtap_0.0.20080705-1+lenny1_i386.deb
+tcptraceroute
+	- -rwsr-xr-x root/root     28760 2008-06-24 15:45 ./usr/bin/tcptraceroute.mt
+	NOTE: checked in lenny tcptraceroute_1.5beta7+debian-1_i386.deb
+thrust
+	- -rwsr-sr-x root/games   258824 2006-03-19 05:16 ./usr/games/thrust
+	- -rwxr-sr-x root/games   254852 2006-03-19 05:16 ./usr/games/xthrust
+	NOTE: checked in lenny thrust_0.89c-3.4_i386.deb
+tint
+	- -rwxr-sr-x root/games    15608 2005-07-17 21:34 ./usr/games/tint
+	NOTE: checked in lenny tint_0.03b_i386.deb
+toppler
+	- -rwxr-sr-x root/games   122392 2007-09-21 04:58 ./usr/games/toppler
+	NOTE: checked in lenny toppler_1.1.3-1_i386.deb
+typespeed
+	- -rwxr-sr-x root/games    55460 2008-10-02 01:58 ./usr/games/typespeed
+	NOTE: checked in lenny typespeed_0.6.4-2.1_i386.deb
+usermode
+	- -rwsr-xr-x root/root     26980 2008-02-23 09:51 ./usr/sbin/userhelper
+	NOTE: checked in lenny usermode_1.81-3.2_i386.deb
+userv
+	- -rwsr-xr-x root/root     27140 2008-04-09 22:03 ./usr/bin/userv
+	NOTE: checked in lenny userv_1.0.5-0.1_i386.deb
+uucp
+	- -rwsr-sr-x uucp/dialout 244756 2008-08-11 13:14 ./usr/lib/uucp/uucico
+	- -rwsr-xr-x uucp/root     97388 2008-08-11 13:14 ./usr/bin/uux
+	- -rwsr-xr-x uucp/root     96112 2008-08-11 13:14 ./usr/bin/uucp
+	- -rwsr-xr-x uucp/root    105588 2008-08-11 13:14 ./usr/bin/uustat
+	- -rwsr-sr-x uucp/uucp    108420 2008-08-11 13:14 ./usr/sbin/uuxqt
+	NOTE: checked in lenny uucp_1.07-19.3_i386.deb
+uw-imapd
+	- -rwxr-sr-x root/mail     81304 2008-12-31 07:34 ./usr/sbin/imapd
+	NOTE: checked in lenny uw-imapd_2007b~dfsg-4+lenny3_i386.deb
+v4l-conf
+	- -rwsr-xr-x root/root     12332 2007-12-19 05:44 ./usr/bin/v4l-conf
+	NOTE: checked in lenny v4l-conf_3.95.dfsg.1-8_i386.deb
+vgacardgames
+	- -rwsr-xr-x root/root     18724 2006-05-31 10:24 ./usr/games/vga_ohhell
+	- -rwsr-xr-x root/root     18564 2006-05-31 10:24 ./usr/games/vga_spider
+	- -rwsr-xr-x root/root     15652 2006-05-31 10:24 ./usr/games/vga_klondike
+	- -rwsr-xr-x root/root     14468 2006-05-31 10:24 ./usr/games/vga_solitaire
+	NOTE: checked in lenny vgacardgames_1.3.1-14_i386.deb
+workman
+	- -rwxr-sr-x root/cdrom   126196 2007-08-13 04:45 ./usr/bin/workman
+	NOTE: checked in lenny workman_1.3.4-28_i386.deb
+wterm-ml
+	- -rwxr-sr-x root/utmp    104636 2006-01-10 15:58 ./usr/bin/kwterm
+	- -rwxr-sr-x root/utmp    104668 2006-01-10 15:58 ./usr/bin/cwterm
+	- -rwxr-sr-x root/utmp    103612 2006-01-10 15:58 ./usr/bin/gwterm
+	NOTE: checked in lenny wterm-ml_6.2.9-8_i386.deb
+wterm
+	- -rwxr-sr-x root/utmp    101148 2006-01-10 15:58 ./usr/bin/wterm
+	NOTE: checked in lenny wterm_6.2.9-8_i386.deb
+xbill
+	- -rwxr-sr-x root/games    30604 2008-04-03 05:59 ./usr/games/xbill
+	NOTE: checked in lenny xbill_2.1-7_i386.deb
+xboing
+	- -rwxr-sr-x root/games   663792 2008-06-16 17:45 ./usr/games/xboing
+	NOTE: checked in lenny xboing_2.4-31_i386.deb
+xbomb
+	- -rwxr-sr-x root/games    25580 2007-12-10 10:37 ./usr/games/xbomb
+	NOTE: checked in lenny xbomb_2.1a-7_i386.deb
+xdigger
+	- -rwxr-sr-x root/games    61668 2008-08-28 08:24 ./usr/games/xdigger
+	NOTE: checked in lenny xdigger_1.0.10-13_i386.deb
+xemacs21-bin
+	- -rwxr-sr-x root/mail     51912 2008-07-27 23:35 ./usr/lib/xemacs-21.4.21/i486-linux-gnu/movemail
+	NOTE: checked in lenny xemacs21-bin_21.4.21-4_i386.deb
+xiterm+thai
+	- -rwxr-sr-x root/utmp     76316 2008-04-24 23:00 ./usr/bin/xiterm+thai
+	NOTE: checked in lenny xiterm+thai_1.09-1_i386.deb
+xjewel
+	- -rwxr-sr-x root/games    50432 2008-06-22 11:38 ./usr/games/xjewel
+	NOTE: checked in lenny xjewel_1.6-24_i386.deb
+xjump
+	- -rwxr-sr-x root/games    32232 2008-05-29 08:36 ./usr/games/xjump
+	NOTE: checked in lenny xjump_2.7.5-5_i386.deb
+xonix
+	- -rwxr-sr-x root/games    37024 2008-07-24 11:43 ./usr/games/xonix
+	NOTE: checked in lenny xonix_1.4-23_i386.deb
+xpat2
+	- -rwxr-sr-x root/games    91924 2008-06-16 17:57 ./usr/games/xpat2
+	NOTE: checked in lenny xpat2_1.07-15_i386.deb
+xserver-xorg
+	- -rwsr-sr-x root/root      7596 2009-07-31 04:49 ./usr/bin/X
+	NOTE: checked in lenny xserver-xorg_7.3+20_i386.deb
+xsok
+	- -rwxr-sr-x root/games    42048 2006-02-09 16:25 ./usr/games/xsok
+	NOTE: checked in lenny xsok_1.02-16_i386.deb
+xsoldier
+	- -rwxr-sr-x root/games    72668 2008-07-05 05:27 ./usr/games/xsoldier
+	NOTE: checked in lenny xsoldier_1.4-1.1_i386.deb
+xterm
+	- -rwxr-sr-x root/utmp    329008 2009-01-05 08:39 ./usr/bin/xterm
+	NOTE: checked in lenny xterm_235-2_i386.deb
+xtrlock
+	- -rwxr-sr-x root/shadow    7180 2006-04-19 03:00 ./usr/bin/xtrlock
+	NOTE: checked in lenny xtrlock_2.0-12_i386.deb
+zapping
+	- -rwsr-xr-x root/root     78728 2008-02-14 23:19 ./usr/sbin/zapping_setup_fb
+	NOTE: checked in lenny zapping_0.10~cvs6-2_i386.deb
+zblast-svgalib
+	- -rwxr-sr-x root/games    68720 2007-09-29 10:53 ./usr/games/zblast
+	NOTE: checked in lenny zblast-svgalib_1.3-2.3_i386.deb
+zblast-x11
+	- -rwxr-sr-x root/games    74992 2007-09-29 10:53 ./usr/games/xzb
+	NOTE: checked in lenny zblast-x11_1.3-2.3_i386.deb
+zgv
+	- -rwsr-xr-x root/root    258760 2006-04-27 03:54 ./usr/bin/zgv
+	NOTE: checked in lenny zgv_5.9-2_i386.deb
+zhcon
+	- -rwsr-xr-x root/root    205988 2008-10-19 17:59 ./usr/bin/zhcon
+	NOTE: checked in lenny zhcon_0.2.6-5.2_i386.deb
