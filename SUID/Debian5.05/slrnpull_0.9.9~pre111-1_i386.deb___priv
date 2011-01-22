@@ -1,5 +1,0 @@
-drwxr-sr-x news/news         0 2008-06-22 07:49 ./var/spool/slrnpull/
-drwxr-sr-x news/news         0 2008-06-22 07:49 ./var/spool/slrnpull/data/
-drwxr-sr-x news/news         0 2008-06-22 07:49 ./var/spool/slrnpull/news/
-drwxrwsr-t news/news         0 2008-06-22 07:49 ./var/spool/slrnpull/out.going/
-drwxr-sr-x news/news         0 2008-06-22 07:49 ./var/spool/slrnpull/out.going/rejects/

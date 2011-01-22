@@ -1,6 +1,0 @@
-drwxr-sr-t root/root         0 2009-07-12 02:43 ./etc/sv/dnscache/
-drwxr-sr-x root/root         0 2009-07-12 02:43 ./etc/sv/dnscache/env/
-drwxr-sr-x root/root         0 2009-07-12 02:43 ./etc/sv/dnscache/root/
-drwxr-sr-x root/root         0 2009-07-12 02:43 ./etc/sv/dnscache/root/ip/
-drwxr-sr-x root/root         0 2009-07-12 02:43 ./etc/sv/dnscache/root/servers/
-drwxr-sr-x root/root         0 2009-07-12 02:43 ./etc/sv/dnscache/log/
