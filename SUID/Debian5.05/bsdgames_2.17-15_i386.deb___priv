@@ -8,8 +8,3 @@
 -rwxr-sr-x root/games    23912 2008-04-26 06:06 ./usr/games/canfield
 -rwxr-sr-x root/games    69000 2008-04-26 06:06 ./usr/games/sail
 -rwxr-sr-x root/games    40072 2008-04-26 06:06 ./usr/games/atc
-drwxrwsr-x root/games        0 2008-04-26 06:06 ./var/games/bsdgames/
-drwxrwsr-x root/games        0 2008-04-26 06:06 ./var/games/bsdgames/hack/
-drwxrwsr-x root/games        0 2008-04-26 06:06 ./var/games/bsdgames/hack/save/
-drwxrwsr-x root/games        0 2008-04-26 06:06 ./var/games/bsdgames/phantasia/
-drwxrwsr-x root/games        0 2008-04-26 06:06 ./var/games/bsdgames/sail/

@@ -1,8 +1,1 @@
-drwx--s--x list/list         0 2007-01-19 05:52 ./var/list/
-drwxr-sr-x list/list         0 2007-01-19 05:52 ./var/list/.bin/
 -rwsr-xr-x root/list     21548 2007-01-19 05:52 ./var/list/.bin/multigram
-hrwsr-xr-x root/list         0 2007-01-19 05:52 ./var/list/.bin/flist link to ./var/list/.bin/multigram
-hrwsr-xr-x root/list         0 2007-01-19 05:52 ./var/list/.bin/senddigest link to ./var/list/.bin/multigram
-hrwsr-xr-x root/list         0 2007-01-19 05:52 ./var/list/.bin/idhash link to ./var/list/.bin/multigram
-hrwsr-xr-x root/list         0 2007-01-19 05:52 ./var/list/.bin/choplist link to ./var/list/.bin/multigram
-drwxr-sr-x list/list         0 2007-01-19 05:52 ./var/list/.etc/
