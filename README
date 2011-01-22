@@ -6,9 +6,10 @@ SUID -->
 A list of SUID/SGID programs and packages.
 
 The SUID/SGID program list for Debian is now being maintained on the Debian
-Security-Tracker [1].
+Security-Tracker [1] based on this work.
 
-The SUID/SGID program list for Fedora is being incorporated in the Fedora wiki [2].
+The SUID/SGID program list for Fedora is being incorporated in the Fedora wiki [2] based
+on this work.
 
 [1] http://svn.debian.org/wsvn/secure-testing/data/suid-sgid-programs
 [2] https://fedoraproject.org/wiki/Security/SetUserGroupIDExecutables
