@@ -1,0 +1,24 @@
+A list of privileged programs in Linux Distributions.
+
+SUID -->
+------------------
+
+A list of SUID/SGID programs and packages.
+
+The SUID/SGID program list for Debian is now being maintained on the Debian
+Security-Tracker [1].
+
+The SUID/SGID program list for Fedora is being incorporated in the Fedora wiki [2].
+
+[1] http://svn.debian.org/wsvn/secure-testing/data/suid-sgid-programs
+[2] https://fedoraproject.org/wiki/Security/SetUserGroupIDExecutables
+
+SecurityAdvisories -->
+------------------
+
+A list of packages and associated CVEs.
+
+--
+Silvio Cesare
+Deakin University
+silvio.cesare _at_ gmail _dot_ com
